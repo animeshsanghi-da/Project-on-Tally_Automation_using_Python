@@ -6,8 +6,6 @@ The project uses PyAutoGUI to simulate keystrokes for importing ledgers, stock i
 
 ![](REPORT-1.png)
 
----
-
 ## Project Features
 
 - Automated generation of Tally-compliant Excel datasets
@@ -19,8 +17,6 @@ The project uses PyAutoGUI to simulate keystrokes for importing ledgers, stock i
 - Executive financial report generation in Markdown format
 - DayBook transaction volume and voucher type distribution analysis
 
----
-
 ## Transaction & Master Types
 
 The project handles the following accounting data elements:
@@ -28,8 +24,6 @@ The project handles the following accounting data elements:
 1. **Master Ledgers:** Capital Accounts, Bank Accounts, Loans, Sundry Creditors, Sundry Debtors, Direct/Indirect Expenses, Fixed Assets, and Incomes
 2. **Stock Items:** Primary inventory items with Units of Measurement (UOM)
 3. **Voucher Types:** Receipt, Contra, Journal, Payment, Purchase, Sales, Debit Note, and Credit Note
-
----
 
 ## Technologies Used
 
@@ -39,8 +33,6 @@ The project handles the following accounting data elements:
 - OpenPyXL
 - Excel / CSV
 - Markdown
-
----
 
 ## Project Structure
 
@@ -61,8 +53,6 @@ tally-automation-analytics/
 └── README.md
 ```
 
----
-
 ## File Information
 
 | File / Folder | Purpose |
@@ -75,8 +65,6 @@ tally-automation-analytics/
 | `tally_export_data/` | Directory holding raw Excel exports from Tally Prime (`DayBook`, `TrialBal`, `PandL`, `BSheet`) |
 | `report.md` | Auto-generated Markdown report containing financial summaries and balance sheet breakdown |
 | `requirements.txt` | Defines necessary Python library dependencies |
-
----
 
 ## Installation
 
@@ -111,8 +99,6 @@ venv\Scripts\Activate.ps1
 ```text
 pip install -r requirements.txt
 ```
-
----
 
 ## How to Run
 
@@ -154,8 +140,6 @@ This command creates:
 report.md
 ```
 
----
-
 ## System Workflow
 
 ```text
@@ -174,8 +158,6 @@ Trial Balance & Flow Verification
 Automated Markdown Report (.md)
 ```
 
----
-
 ## Financial Metrics Analyzed
 
 The project extracts and verifies the following core metrics:
@@ -189,15 +171,11 @@ The project extracts and verifies the following core metrics:
 | **Trial Balance Total** | Debit/Credit balance verification status |
 | **DayBook Volume** | Total voucher count and transaction breakdown by type |
 
----
-
 ## Important Note
 
 The GUI automation script depends on keyboard shortcut navigation and focused active windows in Tally Prime. Ensure Tally Prime is active on screen before the countdown ends.
 
 This project is created for automation and educational purposes. Ensure test environments are used before executing bulk automation on production accounting data.
-
----
 
 ## Useful Links
 
@@ -207,8 +185,6 @@ This project is created for automation and educational purposes. Ensure test env
 - [OpenPyXL](https://openpyxl.readthedocs.io/)
 - [Tally Solutions](https://tallysolutions.com/)
 
----
-
 ## Created By
 
 **Name:** Animesh Sanghi  
@@ -216,15 +192,11 @@ This project is created for automation and educational purposes. Ensure test env
 [LinkedIn](https://www.linkedin.com/in/animeshsanghi-da/) | [GitHub](https://github.com/animeshsanghi-da)  
 Email: animeshsanghi.da@gmail.com
 
----
-
 ## Project Status
 
 ```text
 Automation & Data Analytics Project
 ```
-
----
 
 ## License
 
