@@ -191,8 +191,9 @@ This project is created for automation and educational purposes. Ensure test env
 
 **Name:** Animesh Sanghi  
 **Profession:** Google Certified Data Analyst  
-[LinkedIn](https://www.linkedin.com/in/animeshsanghi-da/) | [GitHub](https://github.com/animeshsanghi-da)  
-Email: animeshsanghi.da@gmail.com
+**LinkedIn:** [linkedin.com/animeshsanghi-da](https://www.linkedin.com/in/animeshsanghi-da/)  
+**GitHub:** [github.com/animeshsanghi-da](https://github.com/animeshsanghi-da)  
+**Email:** animeshsanghi.da@gmail.com
 
 ## Project Status
 
