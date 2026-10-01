@@ -4,6 +4,8 @@ Tally Automation & Financial Data Analytics is a **Python-based GUI automation a
 
 The project uses PyAutoGUI to simulate keystrokes for importing ledgers, stock items, and daily vouchers into Tally Prime, alongside Pandas for parsing Tally Excel exports and generating dynamic financial summaries.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=python&logoColor=white) ![Excel / CSV](https://img.shields.io/badge/Excel%20%2F%20CSV-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
 ![](REPORT-1.png)
 
 ## Project Features
